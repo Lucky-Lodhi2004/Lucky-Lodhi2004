@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!&textBg=false&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!&textBg=false&fontAlignY=38&fontSize=55"/>
 </p>
 
 <h2>Hi 👋, I'm Lucky, an AI backend and MLOPs engineer.</h2>
